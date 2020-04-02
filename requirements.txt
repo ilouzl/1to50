@@ -1,0 +1,7 @@
+h5py
+keras
+numpy
+opencv-python==4.1.2.30
+PyAutoGUI
+pynput
+tensorflow
