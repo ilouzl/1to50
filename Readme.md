@@ -6,7 +6,7 @@
     ```
 
 2. Open a web browser at http://zzzscore.com/1to50
-3. Locatre grid coordinates by running
+3. Locate grid coordinates by running
     ```python
     python locate_grid.py
     ```  
